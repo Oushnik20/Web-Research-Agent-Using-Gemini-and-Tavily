@@ -89,7 +89,8 @@ streamlit run streamlit_app.py
 ## 👤 Author
 
 **Oushnik Banerjee**
-LinkedIn:[ *(add your link)*](https://www.linkedin.com/in/oushnik-banerjee-58b0a524a/)
+LinkedIn:[ *(https://www.linkedin.com/in/oushnik-banerjee-58b0a524a/)*]
 GitHub: [https://github.com/Oushnik20](https://github.com/Oushnik20)
+
 
 
